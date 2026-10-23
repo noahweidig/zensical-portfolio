@@ -1,0 +1,9 @@
+[project]
+name = "zensical-portfolio"
+version = "0.1.0"
+description = "Noah Weidig's portfolio built with Zensical."
+requires-python = ">=3.12"
+dependencies = ["zensical"]
+
+[tool.uv]
+package = false
